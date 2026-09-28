@@ -23,6 +23,9 @@ A practical workaround is to extract the subtitle and place it beside the video:
 Movie.mkv
 Movie.srt
 ```
+## Parsi - پارسی:
+یه ابزار ساده برای جدا کردن زیرنویس‌های داخلی فایل‌های MKV و تبدیلشون به فایل SRT جداگانه. برای وقتیه که زیرنویس روی کامپیوتر یا موبایل درست نمایش داده میشه، ولی پلیر تلویزیون با SoftSub مشکل داره.
+
 
 This project automates that process for a folder of MKV files.
 
